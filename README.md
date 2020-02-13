@@ -3,13 +3,13 @@ nopCommerce Plugin
 ![nopcommerce](https://user-images.githubusercontent.com/38641542/74416398-0c750f00-4e80-11ea-91b7-484977219ca6.jpg)
 The nopCommerce Plugin makes it easy to add Razer Merchant Services payment gateway to your nopCommerce shopping cart.
 
-###### MOLPay Plugin for nopCommerce 4.00 ######
+###### Razer Merchant Services Plugin for nopCommerce 4.00 ######
 
 Prerequisites
 -------------
 
 * nopCommerce 4.00
-* MOLPay Production or Development [account](https://merchant.razer.com/v3/enrol-with-us/).
+* Razer Merchant Services Production or Development [account](https://merchant.razer.com/v3/enrol-with-us/).
 
 Documentation
 -------------
