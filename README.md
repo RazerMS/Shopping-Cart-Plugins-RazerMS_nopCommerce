@@ -23,7 +23,7 @@ General documentation regarding the MOLPay API and related payment flows can be 
 Plugin Releases
 ---------------
 **Normal Integration**
-* [MOLPay Plugin for nopCommerce Version 1.0](https://github.com/RazerMS/nopCommerce_Plugin)
+* [Razer Merchant Services Plugin for nopCommerce Version 1.0](https://github.com/RazerMS/nopCommerce_Plugin)
 
 Support
 -------
