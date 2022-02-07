@@ -1,4 +1,4 @@
-nopCommerce Plugin
+[Shopping Cart Plugins] – RazerMS nopCommerce
 =====================
 ![nopcommerce](https://user-images.githubusercontent.com/38641542/74416398-0c750f00-4e80-11ea-91b7-484977219ca6.jpg)
 The nopCommerce Plugin makes it easy to add Razer Merchant Services payment gateway to your nopCommerce shopping cart.
