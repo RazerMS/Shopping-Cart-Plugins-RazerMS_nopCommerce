@@ -25,6 +25,17 @@ Plugin Releases
 **Normal Integration**
 * [Razer Merchant Services Plugin for nopCommerce Version 1.0](https://github.com/RazerMS/nopCommerce_Plugin)
 
+
+## Resources
+
+- GitHub:     https://github.com/RazerMS
+- Website:    https://merchant.razer.com/
+- Twitter:    https://twitter.com/Razer_MS
+- YouTube:    https://www.youtube.com/c/RazerMerchantServices
+- Facebook:   https://www.facebook.com/RazerMerchantServices/
+- Instagram:  https://www.instagram.com/RazerMerchantServices/
+
+
 Support
 -------
 Merchant Technical Support / Customer Care : support-sa@razer.com <br>
